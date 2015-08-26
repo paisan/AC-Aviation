@@ -22,17 +22,6 @@ It’s during the times of crisis when you have the fewest choices that the qual
 
 AC Aviation provides two (2) Beechjet 400 aircrafts dedicated for air ambulatory services and one Hawker 850XP for charter flight services. All aircraft are under the registration of Department of Civil Aviation (:abbr:`DCA`) Thailand.
 
-AC Aviation Organisational Charts
-=================================
-
-.. toctree::
-   :maxdepth: 1
-
-   Charts/ACA_Company_Organisation
-   Charts/ACA_Administation_HR_Organisation
-   Charts/ACA_Flight_Operations_Organisation
-   Charts/ACA_Maintenance_Organisation
-
 AC Aviation Documentations
 ==========================
 
@@ -41,6 +30,17 @@ AC Aviation believes in flight quality excellences as much as the importance of 
 All documents and necessary records and certificates shall be available herwith. For any further information, please contact the maintainer_.
 
 .. _maintainer: pkhonjum@gmail.com
+
+AC Aviation Organisational Charts
+---------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   Charts/ACA_Company_Organisation
+   Charts/ACA_Administation_HR_Organisation
+   Charts/ACA_Flight_Operations_Organisation
+   Charts/ACA_Maintenance_Organisation
 
 Manuals
 -------
