@@ -1,12 +1,11 @@
 Management Personnel
 ---------------------
 
-.. index:: Accountable Manager
- 
-.. _`Accountable Manager`:
+.. index:: Accountable Manager/General Manager
+.. _`Accountable Manager/General Manager`:
 
-Accountable Manager/Chief Executive Officer/General Manager
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Accountable Manager/General Manager
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /images/Permanent/Stephen_Levesque.png
 	:scale: 100 %
@@ -16,61 +15,39 @@ Accountable Manager/Chief Executive Officer/General Manager
 	Mr. :ref:`Stephen C. Levesque`
 	
 
-Chief Executive Officer/General Manager reports directly to the Board of director of the company and has duties and responsible to:
+General Manager reports direct to Board of Directors.
+Duties and responsibilities are as follows:
 
-a) Management overall of business and control direction of business to intend successful of business by follow policies including investment, capital and control expenses
+a) Control of the operations and operational standards of all company's department and aircraft operated;
 
-b) Development marketing plan for serve company business policies
+b) Supervision, organisation, manning and efficiency of all divisions within flight operations department;
 
-c) Plan, organize and control over activities of aviation business development and Aviation Personnel Development to be in compliance with the Company’s targets, regulations and policies.
+c) Liaison with Regulatory Authorities on all matters concerning Flight Operations, including any variation to Air Operator Certificate;
 
-d) Ensure that the Company’s aircraft operation is safe and legally compliant and is in conformance to the regulatory framework governed by the Air Operator Certificate issued by the Thailand Department of Civil Aviation.
+d) Liaison with any external agencies which may affect the company’s operations;
 
-e) Continuously assess ‘quality’; ensuring adequacies in operating standards, procedures and facilities are at all times consistent with current industry practice.
+e) Provide coordination in establishing overall Flight Operations’ policies;
 
-f) Ensure the implementation of effective Flight Safety programs which are periodically evaluated in terms of its effectively and adequacy.
+f) Establish requirements for all aircraft fleets;
 
-g) Provide vision for growth and business strategy in the field of aviation industry.
+g) Ensure that all requirements are successfully performed and accomplished;
 
-h) Control security system and safety system.
+h) Ensure that the Company’s operations are conducted in accordance with current Regulations, Standards and Company policies;
 
-.. index:: Chief Operating Officer (COO)
-.. _`Chief Operating Officer`: 
-  
-Chief Operating Officer (COO)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+i) Supervise efficient and economical training program to all pilots;
 
-Chief Operating Officer reports directly to :ref:`Accountable Manager` and responsible to:
+j) Supervise and ensure that all pilots reach the highest standards;
 
-a) Plan and control system of commercial in compliance with the Company’s targets, Thai DCA regulations and policies
+k) Assist the Board of Director in short and long range planning relating to new equipment, modification of existing equipment or retrofits to improve the safety and efficiency of equipment used by Flight Operations;
 
-b) Supervise all Commercial services in order to maintain the Company’s required qualities and standards.
+l) Perform and fulfil any mission assigned by the Board of Directors.	
 
-c) Support and follow international aviation developments planning arranged by the company, in order to attain and conform operational improvement.
-
-d) Represent the company externally in issues related to training and services.
-
-e) Evaluate all constraint factors in aviation industry which may have influence on flight, ground operations and Relevant Company’s procedures.
-
-f) Coordinate with functions concerned, within and outside the Company, to seek improvement in operation control procedures to the highest standard.
-
-g) Control budget including personnel recruitment and equipment purchase to enhance operation control efficiency.
-
-h) Report to :ref:`Accountable Manager`
-
-i) Ensures that all operations are conducted safely and in compliance with Thai DCA regulation, Operations Specifications, and Company policies.
-
-j) Schedules aircraft availability, including scheduling the aircraft for required Inspections.
-
-k) Plan, conduct, and control flight and ground operations in a way that satisfy commercial demands and ensures safe, economical and efficient perform of all transport activities and also maintains the Company’s required quality and standard.
-
-l) Control security system and safety system
 	    
-.. index:: Director of Operations (DO)
-.. _`Director of Operations`:
+.. index:: Flight Operations Director (DO)
+.. _`Flight Operations Director`:
 
-Director of Operations (DO)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Flight Operations Director (DO)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /images/Permanent/CaptainPalangKumlek.jpg
    :scale: 25 %
@@ -79,17 +56,75 @@ Director of Operations (DO)
    
    :ref:`Captain Palang Kumlek`
 
-Director of Operations reports directly to :ref:`Chief Operating Officer` and responsible to:
+Flight Operations Director reports direct to :ref:`Accountable Manager/General Manager`. 
+Duties and responsibilities are as follows:
 
-a) Organize, direct and develop overall flight operation activities, both International and Regional, as well as to exercise overall control in order to be compliance with the company’s targets, regulations, policies and planning
+a) Supervising the company employees whose duties require work on, in, or around the aircraft.
 
-b) Establish standardized requirements for all flight operations and related ground operations, and supervise all activities concerned in accordance with the Company’ standard as well as the regulations from both local and international authorities with adherence to applicable government regulations
+b) Safely conducting all flight operations and ensuring they are performed in compliance with Aviation Procedures, DCA, and company policies, rules, and regulations.
 
-c) Be fully responsible for provision, utilization, maintenance and quality control assurance of all flight operations resource and supports, such as personnel, equipment as well as document
+c) Communicating with the DCA Flight Standards Office filing all required documents.
 
-d) Represent the company externally in the issues related to and all matter concerned with flight deck crew operation.
+d) Maintaining personnel, maintenance, and official correspondence files for company flight operations.
 
-e) Be fully responsible for maintenance and inspection of aircraft, engine, propeller and components and ensure that they are in airworthy operational and commercial requirements.
+e) Revising this manual as needed, submitting the proposed revisions to DCA, receiving concurrence from DCA that revisions are accepted, and distributing those revisions to all manual holders.
+
+f) Ensuring that all aircraft are maintained in compliance with all applicable FAR, and DCA directives.
+
+g) Coordinating with the Maintenance Director regarding the timely correction of mechanical or electrical irregularities and discrepancies.
+
+h) Scheduling aircraft availability in consultation with the Scheduler.
+
+i) Directing the employment, oversight, and performance reviews of Flight Crew personnel.
+
+j) Managing the development of organizational, facility, and equipment recommendations.
+
+k) Providing input to the aircraft annual business and operating plans.
+
+l) Participating in industry associations.
+
+m) Completing special projects as assigned by company management.
+
+n) Establishing and maintaining rapport with corporate executives, customers, and industry associates.
+
+o) Approving flight crew assignments in accordance with this manual.
+
+p) In the event of an incident/accident or off-normal event, the Flight Operations Manager will notify MD and DCA with the pertinent details.
+
+.. index:: Quality Assurance Director
+.. _`Quality Assurance Director`:
+
+Quality Assurance Director
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Quality Assurance Director is appointed by and reports to :ref:`Accountable Manager/General Manager`. While performing, his /her quality management duty, QA is completely independent of departmental organization, reports to the Quality Assurance Board and has direct access to the General Manager.  Duties and responsibilities are as follows:
+
+a) Establish and issue proper methods and procedures to comply with regulatory requirements and Company quality policies and standards;
+
+b) Ensure all documentation in his/her area is accurate and updated and that staffs are familiar with and follow the requirements;
+
+c) Ensure revision to procedures do not contradict or violate policies, regulations or standards;
+
+d) Conduct periodic department QA audits to detect actual or potential sources of non-conformance;
+
+e) Track and update progress of remedial action plans;
+
+f) Verify effectiveness of remedial actions taken in eliminating recurrence;
+
+g) Organize quality related training as necessary;
+
+h) Escort external auditors or Authority on audits;
+
+i) Participate in investigations;
+
+j) Participate as a member in the Flight operations Selection Review Board and in safety meetings;
+
+k) Communicate with other internal departments and external entities regarding quality issues;
+
+l) Recommend practices to enhance operational safety, security, efficiency effectiveness and economics;
+
+m) Perform other duties assigned by the Director of Flight operations or Quality assurance Board
+
 
 .. index:: Maintenance Manager
 .. _`Maintenance Manager`:
@@ -100,7 +135,7 @@ Maintenance Manager
 | :ref:`Stephen C. Levesque`
 | :ref:`Wg.Cdr. Phat Winmoon` 
 
-Report to: :ref:`Director of Operations`
+Report to: :ref:`Flight Operations Director`
 
 Qualification:
 
@@ -180,7 +215,7 @@ o) Take responsibility for maintenance reliability program.
 Quality Assurance Manager
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Quality Assurance Manager reports directly to :ref:`Accountable Manager` and responsible for the following functions:
+The Quality Assurance Manager reports directly to :ref:`Accountable Manager/General Manager` and responsible for the following functions:
 
 a) Establishing a Quality Monitoring Program
 
@@ -196,7 +231,7 @@ Quality Control Officer
 
 :ref:`Supawan K.`
 
-Report to: :ref:`Director of Operations`
+Report to: :ref:`Flight Operations Director`
 
 Qualification:
 

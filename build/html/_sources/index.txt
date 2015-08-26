@@ -35,7 +35,7 @@ AC Aviation Organisational Charts
 ---------------------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    Charts/ACA_Company_Organisation
    Charts/ACA_Administation_HR_Organisation
