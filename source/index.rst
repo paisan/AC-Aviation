@@ -31,16 +31,14 @@ All documents and necessary records and certificates shall be available herwith.
 
 .. _maintainer: pkhonjum@gmail.com
 
-AC Aviation Organisational Charts
----------------------------------
+Organisational Charts
+----------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   Charts/ACA_Company_Organisation
-   Charts/ACA_Administation_HR_Organisation
-   Charts/ACA_Flight_Operations_Organisation
-   Charts/ACA_Maintenance_Organisation
+   Charts/Organisational_Charts
+   GMM/Management_Personnel
 
 Manuals
 -------
@@ -53,8 +51,8 @@ Manuals
    OM/OM
    AirAmbulance/Air_Ambulance_Patient_Safety_Goals
    
-AC Aircraft Technical Publication Supports
-------------------------------------------
+Aircraft Technical Publication
+------------------------------
 
 `Beechcraft Publications <http://www.beechcraft.com/customer_support/technical_publications/>`_
 
