@@ -136,7 +136,7 @@ Chief Pilot
 
 The Chief Pilot is appointed by an reports to the :ref:`Flight Operations Director` Duties and responsibilities are as follows:
 
-a) Assisting the Director of :ref:`Flight Operations` in the performance of their and representing them in their absence or when appointed or otherwise necessary;
+a) Assisting the :ref:`Flight Operations Director` in the performance of their and representing them in their absence or when appointed or otherwise necessary;
 
 b) Maintaining the necessary level of proficiency of the pilots of the fleet;
 
@@ -195,7 +195,7 @@ l) Submit ideas to improve the efficiency of training concerned;
 Flight Safety Officer
 ^^^^^^^^^^^^^^^^^^^^^
 
-The Flight Safety Officer is appointed by and reports to the :ref:`Flight Operation Director`. He/She supervises and promotes all operational safety related matters. While performing his/her safety duties he/she receives safety directive from The AC aviation Safety Board. Duties and    responsibilities are as follows:
+The Flight Safety Officer is appointed by and reports to the :ref:`Flight Operations Director`. He/She supervises and promotes all operational safety related matters. While performing his/her safety duties he/she receives safety directive from The AC aviation Safety Board. Duties and    responsibilities are as follows:
 
 a) Collect information from within the company about incidents or occurrences which may affect safety;
 
@@ -342,42 +342,40 @@ k) Record useful statistics for future system developments;
 l) Perform any other duties assigned by the Duty Officer or License Dispatcher 
 
 
-.. index:: Maintenance Manager
-.. _`Maintenance Manager`:
+.. title:: Maintenance Department
 
-Maintenance Manager
-^^^^^^^^^^^^^^^^^^^
+.. index:: Maintenance Director
+.. _`Maintenance Director`:
 
-| :ref:`Stephen C. Levesque`
-| :ref:`Wg.Cdr. Phat Winmoon` 
+Maintenance Director
+^^^^^^^^^^^^^^^^^^^^^
 
-Report to: :ref:`Flight Operations Director`
 
-Qualification:
+Report to: :ref:`Accountable Manager/General Manager`
 
-The Maintenance Manager shall have a minimum of 5 years experience in aircraft maintenance and possess a valid AME license issued by DCA Thailand with type endorsements for at least one of the aircraft types operated by the Company. In addition, the Maintenance Manager shall have a thorough knowledge of the Air Navigation Act B.E. 2497, all current DCA Thailand regulations pertaining to the Company’s aircraft and of this and other maintenance related Company manuals.
+Qualification: 
 
-Responsibilities:
+The Maintenance Manager shall have a minimum of 5 years experience in aircraft maintenance and possess a valid AME license issued by DCA Thailand with type endorsements for at least one of the aircraft types operated by the Company. In addition, the Maintenance Manager shall have a thorough knowledge of the Air Navigation Act B.E. 2497, all current DCA Thailand regulations pertaining to the Company’s aircraft and of this and other maintenance related Company manuals. 
+
+Responsibility:
 
 a) Establish maintenance procedures for maintenance activities under AC Aviation responsibility, as required for safety and standardization.
 
 b) Assuring that all maintenance is completed in a timely manner.
-	 
-c) Assuring that only qualified personnel are assigned to complete maintenance tasks.
-	 
-d) Establish priorities to ensure aircraft are available as required by Flight Operations within the limits of the maintenance resources.
-	    
 
-e)  Maintaining the premises of the Maintenance Department in a clean and orderly manner.
-    
+c) Assuring that only qualified personnel are assigned to complete maintenance tasks.
+
+d) Establish priorities to ensure aircraft are available as required by Flight Operations within the limits of the maintenance resources.
+
+e) Maintaining the premises of the Maintenance Department in a clean and orderly manner.
 
 f) Coordinating maintenance with approved repair station. (In case of maintenance works contracted to a repair station)
 
 g) Initiating purchase requisitions for stock as required.
 
-h) Revise Technical Service Manual and General Maintenance Manual as required.
+f) Revise Technical Service Manual and General Maintenance Manual as required.
 
-i) Suggest to the Director of Operation for part requisition for fleet maintenance.
+g) Suggest to the Director of Operation for part requisition for fleet maintenance.
 
 .. index:: Chief of Maintenance
 .. _`Chief of Maintenance`:
@@ -385,15 +383,13 @@ i) Suggest to the Director of Operation for part requisition for fleet maintenan
 Chief of Maintenance
 ^^^^^^^^^^^^^^^^^^^^
 
-:ref:`Yothin T.`
+Report to: :ref:`Maintenance Director`
 
-Report to: :ref:`Maintenance Manager`
+Qualification: 
 
-Qualification:
+The Chief Engineer shall have a minimum of 5 years’ experience in aircraft maintenance and hold a valid AME license issued by DCA Thailand with type endorsements for at least one of the aircraft types operated by the Company. In addition, the Chief Engineer shall have a thorough knowledge of the Air Navigation Act B.E. 2497, all current DCA Thailand regulations pertaining to the Company’s aircraft and of this and other maintenance related Company manuals. 
 
-The Chief Engineer shall have a minimum of 5 years experience in aircraft maintenance and hold a valid AME license issued by DCA Thailand with type endorsements for at least one of the aircraft types operated by the Company. In addition, the Chief Engineer shall have a thorough knowledge of the Air Navigation Act B.E. 2497, all current DCA Thailand regulations pertaining to the Company’s aircraft and of this and other maintenance related Company manuals.
-
-Responsibilities:
+Responsibility:
 
 a) Establish maintenance procedures for maintenance activities under AC Aviation responsibility, as required for safety and standardization.
 
@@ -420,24 +416,11 @@ k) Suggest to the Maintenance Manager for part requisition for fleet maintenance
 l) Monitor, prepare and submit of application forms for issue and renewal of aircraft official document to the DCA, and Post and Telegraph Office.
 
 m) Assuring the proper handling of all parts while in maintenance process when work is completed.
-   
+
 n) Ensure that aircraft maintenance tools, equipment, components and material that are assigned to Maintenance Department are stored properly with appropriate identification tag.
 
 o) Take responsibility for maintenance reliability program.
 
-.. index:: Quality Assurance Manager
-.. _`Quality Assurance Manager`:
-
-Quality Assurance Manager
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The Quality Assurance Manager reports directly to :ref:`Accountable Manager/General Manager` and responsible for the following functions:
-
-a) Establishing a Quality Monitoring Program
-
-b) Monitoring all sub-contracted activities
-
-c) Ensuring that the Quality System required by DCA is effective in its application and any follow up actions required to address findings are completed.
 
 .. index:: Quaity Control Officer
 .. _`Quality Control Officer`:
@@ -447,50 +430,32 @@ Quality Control Officer
 
 :ref:`Supawan K.`
 
-Report to: :ref:`Flight Operations Director`
+
+Report to: :ref:`Maintenance Director`
 
 Qualification:
 
 The Quality Control Inspector shall have a thorough knowledge of the Air Navigation Act B.E. 2497, all current DCA Thailand regulations pertaining to the Company’s aircraft and of this and other maintenance related Company manuals.
-Functions:
+
+Responsibility:
 
 a) Ensure that all maintenance services under AC Aviation responsibility are performed in accordance with the current effective instructions and manual.
 
 b) Assure that all technical publications are correctly updated.
 
-c) Ensure that all aircraft maintenance procedures are conformed to the company’s policies, standard, laws, DCA regulations and requirements, manufacturer’s  manual.
-   
+c) Ensure that all aircraft maintenance procedures are conformed to the company’s policies, standard, laws, DCA regulations and requirements, manufacturer’s manual.
+
 d) Assure that the maintenance works carried out by Subcontract and AC Aviation are satisfactorily completed and certified.
 
 e) Ensure that history of aircraft, engine, propeller and related components are properly recorded in appropriate documents.
-   
+
 f) Maintain training records of all maintenance personnel and coordinate with the Chief of Maintenance according to the proficient training and/or staffing requirements.
 
 g) Coordinate with the Chief of Maintenance to evaluate maintenance personnel as the company’s certified Maintenance Personnel.
 
-h) Prepare and make understood of Fire Fighting and Evacuation Plan to all concerned personnel. Be sure that all fire extinguishers are serviceable and adequately and suitably located.
+h) Prepare and make understood of Fire Fighting and Evacuation Plan to all concerned personnel.  Be sure that all fire extinguishers are serviceable and adequately and suitably located.
 
 i) Periodically audit the Subcontract for aircraft maintenance activities, facilities, and documentation for conformance with the standards, regulation, and requirement and AC Aviation policies.
-
-j) Submittal to the DCA if any serious defect or an un-airworthy condition of a component that could cause seriously hazards the aircraft through the Director of Operation approval.
-
-k) Fill out Service Difficulty Report Form (DCA A/W-015) through the Director of Operation approval.
-   
-l) Coordinate with internal auditor by Safety Committee at least every 6 month.
-
-m) Investigation of all defects found during the maintenance of aircraft and airborne equipment and to recommend corrective action.
-
-n) Ensuring safe working standards and procedures are compiled with by all workers. All aircraft work performed outside the company is carried out by approved contract maintenance.
-
-o) Maintain the maintenance organization with qualified personnel and proper equipment.
-   
-p) Ensuring that all aircraft servicing works undertake by the company in the maintenance, repair and modification of aircraft and airborne equipment are carried out accordance with the approved standards of the relevant manufacturer.
-
-q) To be added.
-
-r) Ensuring that periodic inspection for ground support equipment will be performed in accordance with appropriate technical manual.
-   
-s) Monitor and report condition / status of housing and facilities to concerned department in order that necessary action can be taken as requit
 
 .. index:: Engineering & Planning Control Officer
 .. _`Engineering & Planning Control Officer`: 
@@ -500,7 +465,7 @@ Engineering & Planning Control Officer
 
 :ref:`Repop P.`
 
-Engineering and Planning Controller reports directly to the :ref:`Maintenance Manager` and has duties and responsible to:
+Engineering and Planning Control reports directly to the :ref:`Maintenance Director` and has duties and responsible to:
 
 a) Follow up and ensure that aircraft maintenance/inspection activities are carried out according to specified requirements.
 
@@ -510,31 +475,24 @@ c) Revise maintenance requirement, as required and in compliance with authority 
 
 d) Co-ordinate with aircraft, engine and component manufactures to ensure that technical support is currently received.
 
-e) Review Airworthiness Directives (AD's), Service Bulletins (SB's) or relevant publications and issues incorporation of modification/inspection, as required.
+e) Review Airworthiness Directives (AD’s), Service Bulletins (SB’s) or relevant publications and issue incorporation of modification/inspection, as required.
 
 f) Advise troubleshooting of aircraft system and equipment to Maintenance Operations or to licensed aircraft maintenance engineer, as necessary.
 
 g) Advise repetitive defect rectification action and ensure that the rectification is effective.
-   
+
 h) Functional Check Flight activities;
 
-   - Brief/Debrief Test Flight crewmember.
-   - Supervise Test Flight.
-   - Report and record result of Test Flight.
+ - Brief/Debrief Test Flight crewmember.
+ - Supervise Test Flight.
+ - Report and record result of Test Flight.
 
-i) Calculate weight and balance figures, subsequent to modification requiring weight or moment changes.
+j) Calculate weight and balance figures, subsequent to modification requiring weight or moment changes.
 
-j) Prepare Weight and balance Report.
+k) Prepare Weight and balance Report.
 
-k) Establish maintenance schedule according to maintenance program and ensure that routine maintenance/inspection activities will not disturb aircraft operational requirement.
-   
-l) Compile maintenance/inspection job cards and properly retains them as aircraft maintenance records.
 
-m) Any additional duties, as may be required by the management.
 
-n) Report daily status of aircraft and spare parts to the Maintenance Manager, as required.
-
-o) Assure that all technical publications are correctly updated, sufficient, periodically revised and inform concerned personnel regarding revision highlight and status.
 
 .. index:: Material & Logistic Officer
 .. _`Material & Logistic Officer`:
@@ -544,10 +502,9 @@ Material & Logistic Officer
 
 :ref:`Yothin T.`
 
-Material and Logistic reports directly to the :ref:`Maintenance Manager` and has duties and responsible to:
+Material and Logistic reports directly to the :ref:`Maintenance Director` and has duties and responsible to:
 
-
-a) Store and issue in order to support aircraft maintenance
+a) Store and issue in order to support aircraft maintenance 
 
 b) Co-ordinate with user in order to ensured that materials are adequately provided to support aircraft maintenance activities.
 
@@ -562,6 +519,8 @@ f) Prepare/Compile Approved Venders/Suppliers List.
 g) Monitor and report condition/status of housing and facilities to concerned department in order that necessary action can be taken as required.
 
 h) Any additional duties, as may be required by the management.
+
+.. warning:: The following section need verification
 
 .. index:: Assistant Planner
 .. _`Assisant Planner`:
