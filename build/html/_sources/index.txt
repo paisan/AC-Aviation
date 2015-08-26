@@ -31,8 +31,8 @@ All documents and necessary records and certificates shall be available herwith.
 
 .. _maintainer: pkhonjum@gmail.com
 
-Organisational Charts
-----------------------
+Organisation Structure & Human Resources
+----------------------------------------
 
 .. toctree::
    :maxdepth: 1
