@@ -9,4 +9,4 @@ AC Aviation Flight Operations Organisation Chart
    :alt: AC Aviation Flight Operation Organisation
    :align: center
 
-   AC Aviation Flight Operation Organisation
+   AC Aviation Flight Operations Organisation

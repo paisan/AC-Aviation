@@ -1,7 +1,7 @@
 .. index:: AC Aviation Company Organisation
 .. _`AC Aviation Company Organisation`:
 
-AC Aviation Company Organisational Chart
+AC Aviation Company Organisation Chart
 ========================================
 
 .. figure:: /images/Company_Organisation.png
