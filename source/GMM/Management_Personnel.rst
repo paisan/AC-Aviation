@@ -128,6 +128,220 @@ l) Recommend practices to enhance operational safety, security, efficiency effec
 m) Perform other duties assigned by the Director of Flight operations or Quality assurance Board
 
 
+.. index:: Chief Pilot
+.. _`Chief Pilot`:
+
+Chief Pilot
+^^^^^^^^^^^
+
+The Chief Pilot is appointed by an reports to the :ref:`Flight Operations Director` Duties and responsibilities are as follows:
+
+a) Assisting the Director of :ref:`Flight Operations` in the performance of their and representing them in their absence or when appointed or otherwise necessary;
+
+b) Maintaining the necessary level of proficiency of the pilots of the fleet;
+
+c) Conducting inspection flights
+
+d) Establishing fleet specific procedures and regulations;
+
+e) Ensuring that all pilots in the fleet are regularly checked and trained in accordance with standards set by the OM
+
+f) Issuing and monitoring special performance and flight procedures pertaining to the airplane type, routes and airports as necessary, in order to comply with the content of the Operations Manual;
+
+e) Identifying and obtaining performance engineering data necessary for flight operations;
+
+f) Together with maintenance establishing and amending he Minimum Equipment List(MEL) and have it approved by the Authority.
+
+g) Supervising the crews’ duty schedule, rest time and their records;
+
+h) Ensuring that any irregularities of duty or rest time are reported to Director of Flight Operations and that the Crew Coordination Section has taken corrective action reported the irregularities to the Authority;
+
+.. index:: Training Manager
+.. _`Training Manager`:
+
+Training Manager
+^^^^^^^^^^^^^^^^
+
+Training and Safety Manager reports direct to :ref:`Flight Operations Director`. Duties and responsibilities are as follows:
+
+a) Control Organize adequate ground, flight and necessary recurrent training for Flight crew and personnel;
+
+b) Initiate measures to ensure safe, economical and efficient way to accomplish the training;
+
+c) Organize and ensure the economical and efficient utilization of all training aids including the flight simulators;
+
+d) Coordinate with all functions concerned, organize and ensure that the required training aids, training materials and training facilities are always available for training needs;
+
+e) Monitoring security and environmental affairs, including complete material safety data sheets on all chemicals, fire drills, and safety emergency procedures (SEP) training (If required).
+
+f) Establish maintenance schedule for training aids/ equipment as required by manufacturer / company policy;
+
+g) Submit budget proposals and maintain cost control;
+
+h) Make Certain that all trainees receive enough knowledge of all the aircraft system;
+
+i) Be prepare and ready to answer all questions that may arise concerning aircraft operation;
+
+j) Prepare the up-to-date appropriate training syllabus;
+
+k) Recommend and prepare new and suitable instructor to fulfill the training program;
+
+l) Submit ideas to improve the efficiency of training concerned;
+
+
+.. index:: Flight Safety Officer
+.. _`Flight Safety Officer`:
+
+Flight Safety Officer
+^^^^^^^^^^^^^^^^^^^^^
+
+The Flight Safety Officer is appointed by and reports to the :ref:`Flight Operation Director`. He/She supervises and promotes all operational safety related matters. While performing his/her safety duties he/she receives safety directive from The AC aviation Safety Board. Duties and    responsibilities are as follows:
+
+a) Collect information from within the company about incidents or occurrences which may affect safety;
+
+b) Collect data of accidents/occurrences involving Company airplanes;
+
+c) Review Voyage Report and Air Safety Reports for improvement opportunities to promote safety;
+
+d) Monitor maintenance and ground operation activities, ensuring the safety and security of the airplane and its occupants;
+
+e) Recommend revision of operational procedures or instructions, if necessary;
+
+f) Consult and assist Director Flight Operations, Director Maintenance on safety and security related matters;
+
+g) Monitor the effectiveness of safety recommendation and corrective action;
+
+h) Evaluate recorded data for trends and initiate improvement of policies, standards and procedures accordingly;
+
+i) Inform operations personnel about safety risks and data collected by issuing internal information publications;
+
+j) Conduct bi-weekly flight operations safety action group meetings and act as meeting secretary to record proceedings and recommendations;
+
+k) Participate as a member in the AC aviation Review Board 
+
+l) Prepare periodic summary reports to Safety Director
+
+m) Liaise with DCA, manufacturer and relevant external entities on safety matters.
+
+.. index:: Flight Operations Manager
+.. _`Flight Operations Manager`:
+
+Flight Operations Manager
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Flight Operations Manager reports to the :ref:`Flight Operations Director`,  In detail, his responsibilities and duties are to:
+
+a) Direct departmental activities to ensure smooth operation and be responsible for department performance;
+
+b) Coordinate with Marketing and Charterer regarding flight schedule and supports;
+
+c) Liaise with the Director of Flight Operations to ensure most suitable and cost effective routes are selected and used;
+
+d) Manage application of all slots and permits and ensure obtaining them in time;
+
+e) Monitor the performance of department staff to ensure safety, security and quality goals and targets are achieved through training and development;
+
+f) Ensure shift turnover items are properly completed;
+
+g) Plan for, and maintain, adequate staff and equipment necessary to perform department functions;
+
+h) Arrange training program for new staffs in order to facilitate their endeavor in obtaining their Aircraft Dispatch License;
+
+i) Arrange staff to attend courses for their improvement;
+
+j) Arrange Qualification Flight(QF), Alternate Airport Familiarization (AAF) and Periodic Dispatch raining(PDT for all Flight Dispatchers;
+
+k) Review, update and improve the content of the Flight Dispatch Manual and ensure all amendments and/or revisions are submitted to the Authority for approval;
+
+l) Liaise and coordinate with civil aviation authorities and equipment manufacturers on operational control matters;
+
+m) Liaise with computer flight planning service provider to maintain and upgrade system performance;
+
+n) Cooperate with other airlines to promote knowledge and operational efficiency;
+
+o) Prepare budget for Company operational costs for routes, i.e. Flight times, block times, burn-offs, payload, etc.
+
+p) Perform any other duties assigned by the Director of Flight Operations
+
+.. index:: Dispatcher
+.. _`Dispatcher`:
+
+Dispatcher
+^^^^^^^^^^
+
+Dispatcher reports direct to :ref:`Flight Operations Manager`. Duties and responsibilities are as follows:
+
+a) Coordinate flight and route facility matters with functions concerned within his area of responsibility.
+
+b) Act on Flight Operations Manager’s behalf during his absence regarding his role and responsibilities.
+
+c) Perform any mission or task assigned by Flight Operations Manager.
+
+d) Maintain cooperation with official authorities, other Aviation Organizations and functions within Flight Operations in connection with the efficient publications of flight operations documentation.
+
+e) Negotiate and collaborate with other companies, carriers regarding purchase, lease or pooling of documentation services.
+
+f) Be responsible for the publication of Route Manual documentation according to requirements made by authorized functions and ensure that they are published by the Route Manual supplier within the specified date.
+
+g) Prepare Company Information as requested by authorized functions.
+
+h) Keep up-to-date official publications–IATA, ICAO, AIP, JAA, FAR as reference manuals to pilots, flight operations officers and licensed dispatchers.
+
+i) Provide Route Manual and distribute revisions to pilots.
+
+j) Forward flown flight documents to functions concerned for filing.
+
+k) Maintain the operations documents in flight deck and documents in the cabin and ensure that they are accurate and up-to date.
+
+l) Coordinate with the Route Manual supplier in order to acquire in-flight documentation and weekly up-to-date revision shipments for the flight deck.
+
+m) Collect Flown Flight Plans, Fueling Order, Fuel Receipts, Flight Info/Statistics, Flight Per Diem and other in-flight reports and forward to FSS to disseminate to functions concerned.
+
+n) Supervise the overall activities in connection with flight planning procedures, crew briefing and flight watch for all BAC flights operated within the Flight Dispatch Areas. 
+
+o) Coordinate and cooperate with functions concerned as well as authorities and other airlines to promote operational efficiency regarding Flight Dispatch Services.
+
+p) Review and update Flight Dispatch Manual (FDM).
+
+q) Arrange dispatcher for station relief .
+
+r) Arrange Qualification Flight, Alternative Airport Familiarization (AAF) and Periodic Dispatch Training (PDT) for all dispatchers.
+
+s) Continuously monitor all aeronautical information in term of NOTAM, AIP and ICAO annex to ensure that any items affected daily operations will be discussed with functions concerned and thereafter, become effective after proper approval.
+
+.. index:: Assistant Dispatcher
+.. _`Assistant Dispatcher`:
+
+Assistant Dispatcher
+^^^^^^^^^^^^^^^^^^^^
+
+Duties and responsibilities for an Assistant Dispatcher are: 
+
+a) Assistant Duties and responsibilities for an Assistant Dispatcher are:
+
+b) Assist Duty Office and License Dispatcher on duty to collect essential information such as NOTAM, weather forecast and actual weather reports required for flight planning and briefing of Company and customer crews;
+
+c) Monitor aircraft status reported from flight deck crews and mechanics, and follow up on the progress of maintenance actions;
+
+d) Prepare and provide meteorological information and NOTAM for dispatching flights;
+
+e) Prepare and file ATS flight plans including Repetitive Flight plan for Company and customer airline’s flights through ATS reporting office;
+
+f) Monitor progress of flight both departure and arrival for all Company and customer flights;
+
+g) Handle flight movement messages and any other necessary data on Company and customer flights
+
+h) Coordinate with all functions concerned, both internal and external and external , to inform movement of the aircraft and other relevant information to make sure all ground handling are set and ready;
+
+i) Arrange all ground support equipments to aircraft as requested;
+
+j) Arrange transportation in airside for crew members and flight operations personnel;
+
+k) Record useful statistics for future system developments;
+
+l) Perform any other duties assigned by the Duty Officer or License Dispatcher 
+
+
 .. index:: Maintenance Manager
 .. _`Maintenance Manager`:
 
