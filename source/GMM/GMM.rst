@@ -12,7 +12,6 @@ AC Aviation Company Limited
    :maxdepth: 2
 	
    Accountable_Manager_Statement
-   List_of_Effective_Pages
    Record_of_Amendment
    Distribution_List
    Abbreviation
