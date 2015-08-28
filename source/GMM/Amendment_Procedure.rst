@@ -1,7 +1,7 @@
 Amendment Procedure
 -------------------
 
-The :ref:`Director of Operations` is responsible for all amendments to the :abbr:`GMM (General Maintenance Manual)`, including associated procedures manuals, and for the submission of proposed amendments. Any amendment to the :abbr:`GMM (General Maintenance Manual)` will first be submitted to the :abbr:`DCA (Thai Department of Civil Aviation)` and after approval distributed to all GMM holders for incorporation. AC Aviation will notify the :abbr:`DCA (Thai Department of Civil Aviation)` of any changes to the following for its consideration 
+The :ref:`Flight Operations Director` is responsible for all amendments to the :abbr:`GMM (General Maintenance Manual)`, including associated procedures manuals, and for the submission of proposed amendments. Any amendment to the :abbr:`GMM (General Maintenance Manual)` will first be submitted to the :abbr:`DCA (Thai Department of Civil Aviation)` and after approval distributed to all GMM holders for incorporation. AC Aviation will notify the :abbr:`DCA (Thai Department of Civil Aviation)` of any changes to the following for its consideration 
 
 	1) Name of the organization or its location.
 	2) Any additional locations to the organization.

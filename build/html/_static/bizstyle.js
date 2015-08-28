@@ -36,6 +36,6 @@ $(window).resize(function(){
         $("li.nav-item-0 a").text("Top");
     }
     else {
-        $("li.nav-item-0 a").text("AC Aviation Documentation 0.1 documentation");
+        $("li.nav-item-0 a").text("AC Aviation Documentation 2.1 documentation");
     }
 });
