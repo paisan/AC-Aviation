@@ -30,8 +30,13 @@ r) A failure or malfunction of more than one attitude, airspeed, or altitude ins
 s) The number of engines removed prematurely because of malfunction, failure or defect, listed by make and model and the aircraft type in which it was install.
 t) The number of propeller featherings in flight, listed by type of propeller and engine and aircraft on which it was installed.
 
-.. warning:: 
-	Service Difficulty Report Form to be added.
+.. figure:: /images/ACA_Service_Difficulty_Report.pdf
+   :scale: 75 %
+   :alt: ACA Service Difficulty Report Form
+   :align: center
+   
+   ACA Service Difficulty Report Form
+   
 	
 **Instruction for Completing Service Difficulty Form**
 
