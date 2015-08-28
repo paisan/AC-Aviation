@@ -520,8 +520,6 @@ g) Monitor and report condition/status of housing and facilities to concerned de
 
 h) Any additional duties, as may be required by the management.
 
-.. warning:: The following section need verification
-
 .. index:: Assistant Planner
 .. _`Assisant Planner`:
 
