@@ -12,26 +12,6 @@ The detail in this program is established from the related Maintenance Manuals, 
 | AC Aviation Company Limited
 
 
-Record of Transmittals
-^^^^^^^^^^^^^^^^^^^^^^
-
-.. warning::
-	To be updated.
-	
-
-Approved by:
-
-
-| Engineering Supervisor
-| AC Aviation Company Limited
-
-List of Effective Pages
-^^^^^^^^^^^^^^^^^^^^^^^
-
-.. warning::
-	To be updated.
-	
-
 Approved by:
 
 
