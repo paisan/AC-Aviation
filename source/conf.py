@@ -48,7 +48,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'AC Aviation Documentation'
-copyright = '2015, Paisan Khonjumpa'
+copyright = '2015, AC Aviation Co., Ltd.'
 author = 'Paisan Khonjumpa'
 
 # The version info for the project you're documenting, acts as replacement for
