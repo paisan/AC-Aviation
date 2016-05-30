@@ -1,7 +1,7 @@
 .. _`Paisan Khonjumpa`:
 
-Paisan Khonjumpa, MIEAust; CPEng
-================================
+Paisan Khonjumpa, MIEAust
+=========================
 
 .. image:: /images/Temporary/PaisanKhonjumpa.png
    :scale: 35 %
